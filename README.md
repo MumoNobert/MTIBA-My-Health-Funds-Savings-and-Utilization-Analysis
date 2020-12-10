@@ -51,7 +51,7 @@ Files not included in the repository
 
 
 ## <a id="results"/> Key Results
-Link to the Insights from this poject [Medium].
+Link to the Insights from this poject : [Medium](https://medium.com/carepay-stories/saving-for-healthcare-a-deep-dive-into-m-tibas-savings-wallet-e0699dee7feb).
 
 ## <a id="acknowledgements"/> Licenses and acknowledgements
 All the data used for the analysis was from the MTIBA platform owned by CarePay, the company I work for currently. The datasets' cutoff date was 30th September 2020.
