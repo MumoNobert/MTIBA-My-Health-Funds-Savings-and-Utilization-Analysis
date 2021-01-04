@@ -1,5 +1,5 @@
 # A deep dive  into utilization and saving behavior of MTIBA's My Health Funds wallet
-This project gives insights by analyzing data from the MTIBA platform on claims and savings in Kenya. It looks into claims utilization patterns for My Health Funds program (a health savings wallet) such as typical claim amount, total claim amount dispersed over time as well as distribution of claims over different counties. It also looks into savings patterns such as savings across different days of the week, savings across gender  and savings by family size.
+This project gives insights by analyzing data from the MTIBA platform on claims and savings in Kenya. It looks into claims utilization patterns for My Health Funds program (a health savings wallet) such as typical claim amount, total claim amount dispersed over time as well as distribution of claims over different counties. It also looks into savings patterns such as savings across different days of the week, savings across gender and savings by family size.
 
 ## Table of Contents
 1. [Project Motivation](#motivation)
@@ -17,7 +17,7 @@ The motivation of this project was to use Python to get insights into Utilizatio
 - Performing relevant analysis
 - Communicating the insights with much simplicity as possible
 
-The business questions that the project seeks to answe are :
+The business questions that the project seeks to answer are :
 - Savings Questions
     1. What is the typical saving amount for a My Health Fund member ?
     2. What is the typical remittance amount to a My Health Funds member
